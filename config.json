@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatoruelete",
+        "uuid": 30483596,
+        "checksum": "j0nt8d"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
